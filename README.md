@@ -56,7 +56,4 @@ Overall, the project highlights the potential of machine learning in solving rea
 
 ---
 
-## Authors
 
-- [Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
-- [Prafull Korde](https://www.linkedin.com/in/prafull-korde-400560126/)
