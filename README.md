@@ -54,6 +54,7 @@ Some of the key points are:-
 
 Overall, the project highlights the potential of machine learning in solving real-world problems and provides a roadmap for future research in this area. The findings of this project can be extended to other cities with similar bike sharing systems, leading to more effective and efficient bike sharing operations, and better outcomes for all stakeholders.
 
----
+## Author 
+- [Akbar Ali Shaikh]
 
 
